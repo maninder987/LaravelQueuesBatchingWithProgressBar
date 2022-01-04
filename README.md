@@ -3,15 +3,13 @@
 #Laravel Queues Batching With Progress Bar
 
 ##Demo
-<blockquote class="imgur-embed-pub" lang="en" data-id="risXONO"><a href="//imgur.com/LSkkFTM">View post on imgur.com
+<blockquote class="imgur-embed-pub" lang="en" data-id="risXONO"><a href="//imgur.com/LSkkFTM">View demo on imgur.com
 </a></blockquote>
 
 
-<a href="https://imgur.com/LSkkFTM"><img src="https://i.imgur.com/LSkkFTM.gif" title="source: imgur.com" /></a>
+<a href="https://imgur.com/v3HHy28"><img src="https://i.imgur.com/v3HHy28.gifv" title="source: imgur.com" /></a>
 
-<a href="https://imgur.com/LSkkFTM"><img src="https://i.imgur.com/LSkkFTM.gif" title="source: imgur.com" /></a>
+<a href="https://imgur.com/v3HHy28"><img src="https://i.imgur.com/v3HHy28.gif" title="source: imgur.com" /></a>
 
-[Imgur](https://i.imgur.com/LSkkFTM.gifv)
 
-<a href="https://imgur.com/LSkkFTM"><img src="https://i.imgur.com/LSkkFTM.gif" title="source: imgur.com" /></a>
 
