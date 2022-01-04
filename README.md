@@ -7,9 +7,9 @@
 </a></blockquote>
 
 
-<a href="https://imgur.com/v3HHy28"><img src="https://i.imgur.com/v3HHy28.gifv" title="source: imgur.com" /></a>
+
 
 <a href="https://imgur.com/v3HHy28"><img src="https://i.imgur.com/v3HHy28.gif" title="source: imgur.com" /></a>
 
-
+<a href="https://imgur.com/LSkkFTM"><img src="https://i.imgur.com/LSkkFTM.gif" title="source: imgur.com" /></a>
 
